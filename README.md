@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/curious_hrithik" target="blank"><img src="https://img.shields.io/twitter/follow/curious_hrithik?logo=twitter&style=for-the-badge" alt="curious_hrithik" /></a> </p>
 
-[![An image of @hritik6918's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hritik6918)](https://holopin.io/@hritik6918)
+
 - 🌱 I’m currently learning **Fullstack,Reactjs,Nodejs**
 
 - 💬 Ask me about **web development**
