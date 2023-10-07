@@ -14,6 +14,7 @@
 - 📫 How to reach me **hritikkumar09sgnv.grd@gmail.com**
 
 - ⚡ Fun fact **A Melomaniac guy with living dreams😜**
+  ![Screenshot (259)](https://github.com/hritik-6918/hritik-6918/assets/83581212/6bc010d9-5a0c-4846-99bd-08e950fbf8bc)
 [![hritik-6918's GitHub | Stats](https://stats.quine.sh/hritik-6918/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hritik-6918)
 [![hritik-6918's GitHub | Dependencies](https://stats.quine.sh/hritik-6918/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hritik-6918)
 [![hritik-6918's GitHub | Topics Over Time](https://stats.quine.sh/hritik-6918/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hritik-6918)
