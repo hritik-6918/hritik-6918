@@ -14,7 +14,7 @@
 - 📫 How to reach me **hritikkumar09sgnv.grd@gmail.com**
 
 - ⚡ Fun fact **A Melomaniac guy with living dreams😜**
-
+              [![hritik-6918's GitHub | Stats](https://stats.quine.sh/hritik-6918/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hritik-6918)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/curious_hrithik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="curious_hrithik" height="30" width="40" /></a>
