@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritik-6918&label=Profile%20views&color=0e75b6&style=flat" alt="hritik-6918" /> </p>
 
-<p align="left"> <a href="https://twitter.com/curious_hrithik" target="blank"><img src="https://img.shields.io/twitter/follow/curious_hrithik?logo=twitter&style=for-the-badge" alt="curious_hrithik" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/hritik-kumar6918/" target="blank"><img src="https://img.shields.io/twitter/follow/curious_hrithik?logo=twitter&style=for-the-badge" alt="curious_hrithik" /></a> </p>
 
 
 - 🌱 I’m currently learning & making self projects on **Fullstack Development**
