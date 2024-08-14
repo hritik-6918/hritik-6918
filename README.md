@@ -1,6 +1,6 @@
 ![Screenshot (268)](https://github.com/hritik-6918/hritik-6918/assets/83581212/9a5ac7a7-85d8-4147-81b1-37b5afadffa1)
 <h1 align="center">Hi 👋, I'm Hritik kumar</h1>
-<h3 align="center">A Tech Enthusiast & problem solver looking to explore and enhance my skills.</h3>
+<h3 align="center">A tech enthusiast & problem solver looking to explore and enhance my skills.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritik-6918&label=Profile%20views&color=0e75b6&style=flat" alt="hritik-6918" /> </p>
