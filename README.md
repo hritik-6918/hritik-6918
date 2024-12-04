@@ -1,4 +1,5 @@
 ![Screenshot (268)](https://github.com/hritik-6918/hritik-6918/assets/83581212/9a5ac7a7-85d8-4147-81b1-37b5afadffa1)
+
 <h1 align="center">Hi 👋, I'm Hritik kumar</h1>
 <h3 align="center">A tech enthusiast & problem solver looking to explore and enhance my skills.</h3>
 
@@ -15,6 +16,7 @@
 - 📫 How to reach me **hritikkumar09sgnv.grd@gmail.com**
 
 - ⚡ Fun fact **A Melomaniac guy with living dreams😜**
+  
   ![Screenshot (267)](https://github.com/hritik-6918/hritik-6918/assets/83581212/2ca2daff-9b3f-477d-9231-6fbbb8ba43b8)
 
 [![hritik-6918's GitHub | Stats](https://stats.quine.sh/hritik-6918/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hritik-6918)
