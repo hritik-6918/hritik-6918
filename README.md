@@ -1,4 +1,4 @@
-![Screenshot (268)](https://github.com/hritik-6918/hritik-6918/assets/83581212/9a5ac7a7-85d8-4147-81b1-37b5afadffa1)
+![Screenshot (268)](https://github.com/hritik-6918/hritik-6918/assets/83581212/9a5ac7a7-85d8-4147-81b1-37b5afadffa1) 
 
 ![Screenshot (267)](https://github.com/hritik-6918/hritik-6918/assets/83581212/2ca2daff-9b3f-477d-9231-6fbbb8ba43b8)
 
