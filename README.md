@@ -33,11 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hritik-6918&show_icons=true&locale=en&layout=compact" alt="hritik-6918" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hritik-6918&" alt="hritik-6918" /></p>
-
-[![hritik-6918's GitHub | Stats](https://stats.quine.sh/hritik-6918/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hritik-6918)
-
-[![hritik-6918's GitHub | Dependencies](https://stats.quine.sh/hritik-6918/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hritik-6918)
-
-[![hritik-6918's GitHub | Topics Over Time](https://stats.quine.sh/hritik-6918/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hritik-6918)
-
-[![hritik-6918's GitHub | Languages Over Time](https://stats.quine.sh/hritik-6918/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hritik-6918)
