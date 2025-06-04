@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WA8xwRTTtg1MqF1N9kBqRftZV56DJTUO/view?usp=sharing)
 
-- ⚡ Fun fact **A Melomaniac guy with living dreams🎄**
+- ⚡ Fun fact : **A Melomaniac guy with living dreams🎄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
