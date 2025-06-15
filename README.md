@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hritikkumar09grd@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WA8xwRTTtg1MqF1N9kBqRftZV56DJTUO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Qahbw71rIYWB7ECBCRxchv8lros7JM9o/view?usp=sharing)
 
 - ⚡ Fun fact : **A Melomaniac guy with living dreams🎄**
 
